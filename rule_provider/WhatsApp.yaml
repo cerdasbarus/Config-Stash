@@ -1,0 +1,11 @@
+payload:
+# > WhatsApp
+#  - DST-PORT,3478
+  - DST-PORT,5222
+#  - DOMAIN-KEYWORD,whatsapp.com
+#  - DOMAIN-KEYWORD,whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+#  - DOMAIN-SUFFIX,scontent.whatsapp.net
+#  - DOMAIN-SUFFIX,static.whatsapp.net
+#  - DOMAIN-KEYWORD,whatsapp
